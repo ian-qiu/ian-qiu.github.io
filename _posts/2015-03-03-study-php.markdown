@@ -5,4 +5,18 @@ date:   2015-03-03 15:02:29
 categories: study
 ---
 
+面向对象基本概念
+--------------
+
+* <a target="_blank" href="http://php.net/manual/zh/language.oop5.basic.php">基本概念</a>
+* <a target="_blank" href="http://php.net/manual/zh/language.oop5.properties.php">属性</a>
+* <a target="_blank" href="http://php.net/manual/zh/language.oop5.constants.php">类常量</a>
+* <a target="_blank" href="http://php.net/manual/zh/language.oop5.decon.php">构造函数与析构函数</a>
+* <a target="_blank" href="http://php.net/manual/zh/language.oop5.visibility.php">访问控制（可见性）</a>
+* <a target="_blank" href="http://php.net/manual/zh/language.oop5.inheritance.php">对象继承</a>
+* <a target="_blank" href="http://php.net/manual/zh/language.oop5.static.php">Static（静态）关键字</a>
+
+资源
+--------------
+
 * <a target="_blank" href="http://php.net/manual/zh/">PHP手册</a>
