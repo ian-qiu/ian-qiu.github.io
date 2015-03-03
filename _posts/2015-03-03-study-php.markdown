@@ -20,3 +20,7 @@ categories: study
 --------------
 
 * <a target="_blank" href="http://php.net/manual/zh/">PHP手册</a>
+* <a target="_blank" href="http://www.imooc.com/wenda/detail/248729">PHP中的15种魔术方法与8种魔术变量</a>
+* <a target="_blank" href="http://php.net/manual/zh/reserved.variables.php">预定义变量</a>
+* <a target="_blank" href="http://php.net/manual/zh/wrappers.php.php">php://</a>
+* <a target="_blank" href="http://php.net/manual/zh/langref.php">PHP语言参考</a>
