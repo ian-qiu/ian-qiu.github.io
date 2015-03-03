@@ -16,6 +16,27 @@ categories: study
 * <a target="_blank" href="http://php.net/manual/zh/language.oop5.inheritance.php">对象继承</a>
 * <a target="_blank" href="http://php.net/manual/zh/language.oop5.static.php">Static（静态）关键字</a>
 
+包管理器
+--------------
+* <a target="_blank" href="http://www.phpcomposer.com/">composer</a>
+
+框架
+--------------
+
+* <a target="_blank" href="http://www.golaravel.com/">Laravel</a>
+
+模板
+--------------
+
+* <a target="_blank" href="http://www.php100.com/manual/smarty3/">Smarty教程</a>
+
+IDE
+--------------
+
+* <a target="_blank" href="https://www.jetbrains.com/phpstorm/">PhpStorm</a>
+* NetBeans
+* ZendStudio
+
 资源
 --------------
 
