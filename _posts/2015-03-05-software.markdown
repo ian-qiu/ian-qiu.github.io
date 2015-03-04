@@ -19,3 +19,6 @@ categories: study
 
 其它
 --------
+
+* <a target="_blank" href="http://www.sourcetreeapp.com/">SourceTree</a>（Windows）
+* <a target="_blank" href="http://www.syntevo.com/smartgit/welcome">SmartGit</a>（Mac）
