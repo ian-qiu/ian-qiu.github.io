@@ -11,3 +11,4 @@ github_username:  ian-qiu
 # Build settings
 markdown: kramdown
 timezone: Asia/Shanghai
+highlighter: pygments

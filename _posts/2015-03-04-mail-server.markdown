@@ -8,7 +8,7 @@ categories: study
 相关命令
 ----------------------
 
-{% highlight shell %}
+{% highlight Bash Shell Scripts %}
 
 sudo tasksel install lamp-server
 
