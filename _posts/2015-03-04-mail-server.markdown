@@ -9,6 +9,8 @@ categories: study
 ----------------------
 <a href="http://vbird.dic.ksu.edu.tw/linux_server/0380mail_1.php" target="_blank">鸟哥的Linux私房菜（服务器架设篇）</a>
 
+<a href="https://www.exratione.com/2014/05/a-mailserver-on-ubuntu-1404-postfix-dovecot-mysql/" target="_blank">A Mailserver on Ubuntu 14.04: Postfix, Dovecot, MySQL</a>
+
 概念
 ----------------------
 
