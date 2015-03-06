@@ -9,11 +9,13 @@ categories: study
 相关命令
 ----------------------
 
-```
+```shell
 
 	sudo tasksel install lamp-server
 
 	sudo tasksel install mail-server
+	
+```
 
 参考资料
 ----------------------
