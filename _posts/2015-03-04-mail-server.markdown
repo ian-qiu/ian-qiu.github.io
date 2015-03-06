@@ -10,9 +10,9 @@ categories: study
 
 {% highlight shell %}
 
-	sudo tasksel install lamp-server
+sudo tasksel install lamp-server
 
-	sudo tasksel install mail-server
+sudo tasksel install mail-server
 	
 {% endhighlight %}
 
