@@ -2,8 +2,54 @@
 <html>
 <head>
     <title></title>
+    <style type="text/css">
+    .page01_01{width:37.5%;position:absolute; top:10%;left:31%;display:none;}
+    /*第一页动画*/
+.page01_01{
+display:block;
+animation: page01_01 0.8s linear 0s;
+-moz-animation: page01_01 0.8s linear 0s;
+-webkit-animation: page01_01 0.8s linear 0s;
+-o-animation: page01_01 0.8s linear 0s;
+
+animation-fill-mode:both; 
+-moz-animation-fill-mode:both; 
+-webkit-animation-fill-mode:both; 
+-o-animation-fill-mode:both;
+}
+@keyframes page01_01
+{
+0% {top:-20%;}
+50% {top:13%}
+80% {top:8%}
+100% {top:10%;}
+}
+@-moz-keyframes page01_01
+{
+0% {top:-20%;}
+50% {top:13%}
+80% {top:8%}
+100% {top:10%;}
+}
+@-webkit-keyframes page01_01
+{
+0% {top:-20%;}
+50% {top:13%}
+80% {top:8%}
+100% {top:10%;}
+}
+@-o-keyframes page01_01
+{
+0% {top:-20%;}
+50% {top:13%}
+80% {top:8%}
+100% {top:10%;}
+}
+    </style>
 </head>
 <body>
-    <p style="text-align:center;">Hello, test!</p>
+	<div>
+    	<div class="page01_01">Hello, test!</div>
+    </div>
 </body>
 </html>
