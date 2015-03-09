@@ -24,7 +24,7 @@ categories: study
 
 打开Github Bash，输入以下命令：
 
-```
+{% highlight Bash Shell Scripts %}
 mkdir vagrant
 cd vagrant
 mkdir webserver
@@ -32,5 +32,4 @@ cd webserver
 vagrant box add --name ubuntu64 <i>box_path</i>
 vagrant init ubuntu64
 vagrant up
-
-```
+{% endhighlight %}
