@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "PHP开发环境搭建"
+date:   2015-03-09 15:43:29
+categories: study
+---
+[所需软件](id:anchor1)
+--------------
+
+<a target="_blank" href="https://www.virtualbox.org/">virtualbox</a>
+
+<a target="_blank" href="https://www.vagrantup.com/">vagrant</a>
+
+<a target="_blank" href="http://msysgit.github.io/">git for windows</a>
+
+<a target="_blank" href="http://www.xdowns.com/soft/softdown.asp?softid=23625">SecureCRT</a>
+
+安装过程
+--------------
+
+依次安装[所需软件](#anchor1)
+
+下载vagrant所需要的<a target="_blank" href="https://cloud-images.ubuntu.com/vagrant/precise/current/precise-server-cloudimg-amd64-vagrant-disk1.box">box</a>
+
+打开Github Bash，输入以下命令：
+
+```
+mkdir vagrant
+cd vagrant
+mkdir webserver
+cd webserver
+vagrant box add --name ubuntu64 <i>box_path</i>
+vagrant init ubuntu64
+vagrant up
+
+```
