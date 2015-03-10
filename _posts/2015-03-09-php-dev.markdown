@@ -29,7 +29,7 @@ mkdir vagrant
 cd vagrant
 mkdir webserver
 cd webserver
-vagrant box add --name ubuntu64 **box_path**
+vagrant box add --name ubuntu64 box_path
 vagrant init ubuntu64
 vagrant up
 {% endhighlight %}
