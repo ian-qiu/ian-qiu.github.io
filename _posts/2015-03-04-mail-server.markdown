@@ -32,3 +32,23 @@ sudo tasksel install mail-server
 * MRA: Mail Retrieval Agent
 * POP: Post Office Protocol(邮政服务协议)
 * IMAP: Internet Message Access Protocol
+
+端口
+----------------------
+
+* 25 (SMTP)
+* 80 (HTTP)
+* 110 (POP3)
+* 143 (IMAP)
+* 443 (HTTPS)
+* 465 (SMTPS)
+* 993 (IMAPS)
+* 995 (POP3S)
+
+组件
+----------------------
+
+* <a target="_blank" href="http://www.dovecot.org/">dovecot</a>
+* <a target="_blank" href="http://www.postfix.org/">postfix</a>
+* <a target="_blank" href="http://sourceforge.net/projects/postfixadmin/">postfixadmin</a>
+* <a target="_blank" href="http://roundcube.net//">roundcube</a>
