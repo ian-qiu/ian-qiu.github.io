@@ -51,4 +51,4 @@ sudo tasksel install mail-server
 * <a target="_blank" href="http://www.dovecot.org/">dovecot</a>
 * <a target="_blank" href="http://www.postfix.org/">postfix</a>
 * <a target="_blank" href="http://sourceforge.net/projects/postfixadmin/">postfixadmin</a>
-* <a target="_blank" href="http://roundcube.net//">roundcube</a>
+* <a target="_blank" href="http://roundcube.net/">roundcube</a>

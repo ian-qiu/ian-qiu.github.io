@@ -17,6 +17,10 @@ categories: study
 * <a target="_blank" href="http://markdownpad.com/">MarkdownPad</a>（Windows）
 * <a target="_blank" href="http://25.io/mou/">Mou</a>（Mac）
 
+阅读
+--------
+* <a target="_blank" href="http://zealdocs.org/">Zeal</a>（Windows/Linux）
+
 软件开发
 --------
 
