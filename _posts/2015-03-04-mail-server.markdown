@@ -10,11 +10,73 @@ categories: study
 
 {% highlight Bash Shell Scripts %}
 
+hostname mail.ianqiu.top
+
 sudo tasksel install lamp-server
 
 sudo tasksel install mail-server
+
+apt-get install dovecot-core dovecot-imapd dovecot-pop3d
 	
 {% endhighlight %}
+
+配置
+----------------------
+
+/etc/postfix/main.cf
+
+```
+smtp_use_tls = no
+smtpd_use_tls = no
+smtp_tls_note_starttls_offer = yes
+smtpd_tls_loglevel = 1
+smtpd_tls_received_header = yes
+
+smtpd_sasl_type = dovecot
+smtpd_sasl_path = private/auth
+smtpd_sasl_auth_enable = yes
+
+smtpd_sasl_security_options = noanonymous
+smtpd_sasl_local_domain = $myhostname
+smtpd_sasl_application_name = smtpd
+broken_sasl_auth_clients = yes
+```
+/etc/dovecot/conf.d/10-auth.conf
+
+```
+disable_plaintext_auth = no
+auth_username_format = %n
+auth_mechanisms = plain
+
+```
+
+/etc/dovecot/conf.d/auth-system.conf.ext
+
+```
+passdb {
+	dirver = shadow
+}
+
+userdb {
+	driver = passwd
+}
+```
+/etc/dovecot/conf.d/10-ssl.conf
+
+```
+ssl = no
+
+```
+
+/etc/dovecot/conf.d/10-master.conf
+
+```
+service auth {
+  unix_listener /var/spool/postfix/private/auth {
+    mode = 0666
+  }
+}
+```
 
 参考资料
 ----------------------
@@ -52,3 +114,5 @@ sudo tasksel install mail-server
 * <a target="_blank" href="http://www.postfix.org/">postfix</a>
 * <a target="_blank" href="http://sourceforge.net/projects/postfixadmin/">postfixadmin</a>
 * <a target="_blank" href="http://roundcube.net/">roundcube</a>
+
+
