@@ -20,7 +20,7 @@ categories: study
 阅读
 --------
 * <a target="_blank" href="http://zealdocs.org/">Zeal</a>（Windows/Linux）
-* <a target="_blank" href="http://kapeli.com/dash">Dash</a>（Windows/Linux）
+* <a target="_blank" href="http://kapeli.com/dash">Dash</a>（Mac）
 
 软件开发
 --------
