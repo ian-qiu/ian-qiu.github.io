@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "常用软件"
-date:   2015-03-05 00:13:29
+title:  "Linux命令"
+date:   2015-03-16 10:41:29
 categories: study
 ---
 
