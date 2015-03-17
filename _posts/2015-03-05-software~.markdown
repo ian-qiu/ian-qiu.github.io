@@ -16,8 +16,6 @@ categories: study
 * <a target="_blank" href="http://www.sublimetext.com/3">Sublime Text</a>（All）
 * <a target="_blank" href="http://markdownpad.com/">MarkdownPad</a>（Windows）
 * <a target="_blank" href="http://25.io/mou/">Mou</a>（Mac）
-* SSH Editor
-* Zeus IDE
 
 阅读
 --------
