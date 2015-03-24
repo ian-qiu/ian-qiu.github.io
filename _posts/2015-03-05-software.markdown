@@ -16,8 +16,6 @@ categories: study
 * <a target="_blank" href="http://www.sublimetext.com/3">Sublime Text</a>（All）
 * <a target="_blank" href="http://markdownpad.com/">MarkdownPad</a>（Windows）
 * <a target="_blank" href="http://25.io/mou/">Mou</a>（Mac）
-* SSH Editor
-* Zeus IDE
 
 阅读
 --------
@@ -35,3 +33,7 @@ categories: study
 * <a target="_blank" href="http://www.teamviewer.com/zhCN/index.aspx">TeamViewer</a>（Mac）
 
 * <a target="_blank" href="http://baike.baidu.com/link?url=VyABVgorRLvSXzRnBDP0LrVsVvh6DwXlQZcHz5zsZZqcuGYxfyjqNJcl9-EG-6ErboYidkdyhmyvQJgqDRGG6_">Home Ftp Server</a>（Windows）
+
+参考
+--------
+* <a target="_blank" href="http://www.tuicool.com/articles/fy2EnqJ">2014年Windows平台软件推荐：神器小工具（骨灰级）</a>
