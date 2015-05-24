@@ -5,8 +5,6 @@ date:   2015-05-24 15:37:29
 categories: study
 ---
 
-----------------
-
 > #### 我们得先承认，确实有一个外部因素会影响到语言的流行。一种语言必须是某一个流行的计算机系统的脚本语言（scripting language），才会变得流行。Fortran和Cobol是早期IBM大型机的脚本语言。C是Unix的脚本语言，后来的Perl和Python也是如此。Tel是Tk的脚本语言，Visual Basic是Windows的脚本语言，（某种形式的）Lisp是Emacs的脚本语言，是网络服务器的脚本语言，Java和JavaScript是浏览器的脚本语言。
 > #### Let’s start by acknowledging one external factor that does affect the popularity of a programming language. To become popular, a programming language has to be the scripting language of a popular system. Fortran and Cobol were the scripting languages of early IBM mainframes. C was the scripting language of Unix, and so, later, were Perl and Python. Tcl is the scripting language of Tk, Visual Basic of Windows, (a form of) Lisp of Emacs, PHP of web servers, and Java and Javascript of web browsers.<br/>
 
