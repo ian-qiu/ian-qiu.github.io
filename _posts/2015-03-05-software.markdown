@@ -27,7 +27,7 @@ categories: study
 
 * <a target="_blank" href="http://www.sourcetreeapp.com/">SourceTree</a>（Windows）
 * <a target="_blank" href="http://www.syntevo.com/smartgit/welcome">SmartGit</a>（Mac）
-* <a target="_blank" href="http://mobaxterm.mobatek.net/download-home-edition.html">MobaXterm</a>（Mac）
+* <a target="_blank" href="http://mobaxterm.mobatek.net/download-home-edition.html">MobaXterm</a>（Windows）
 
 工具
 --------
